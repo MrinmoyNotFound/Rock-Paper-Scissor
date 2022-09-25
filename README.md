@@ -9,3 +9,6 @@ We all have played **Rock Paper Scissor** game in our school or with our friends
 - **Author** : Mrinmoy, partnership with my laziness :)
 - **SOME INFORMATION** : I used replit in this project, so if you want to use you can. 
 - **Feedback** : Let me know if you think any mistake has been made in this. 
+- **PROJECT VERSION** : 2.0
+# UPDATE INFO
+Added **Colors** And **Modified Play Again** Function
